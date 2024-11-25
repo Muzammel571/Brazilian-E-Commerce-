@@ -75,11 +75,17 @@ II).Data Analysis And Finding
 --1.Retrieve the total number of customers percentage per state.Keep in Desc Order
 
 Select
+
 customer_state,
+
 Count (customer_id) AS Total_Customer,
+
 COUNT (customer_id) * 100 / SUM (Count (customer_id)) over ()As Percentage_Customer 
+
 FROM [Brazilian E-Commerce  Dataset ].[dbo].[olist_customers_dataset] 
+
 GROUP by customer_state
+
 ORDER by Percentage_Customer  Desc;
 
 
