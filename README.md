@@ -48,17 +48,18 @@ II).Data Analysis And Finding
 *) Find all cities where the geolocation_zip_code_prefix is shared by more than one city.
 
 3.	Order Item:
+
 *) Retrieve the total revenue (price) from all orders.
   	
 *) Calculate the average freight_value for delivered orders.
 
-5.	Order Payment:
+4.	Order Payment:
 
 *) Count the number of orders made using each payment_type.
   	
 *) Find the total payment_value for orders with more than one installment.
 
-7.	Order Dataset:
+5.	Order Dataset:
 
 *)	Retrieve the list of orders that were delivered after their estimated delivery date.
   	
