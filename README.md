@@ -29,8 +29,11 @@
 
 4.The goal is to deliver actionable insights for optimizing e-commerce operations and marketing strategies.
 
+**Project Structure**
 
+I). The dataset, originally downloaded from Kaggle in CSV format, has been uploaded to the database as Brazilian E-Commerce.
 
+II).Data Analysis And Finding
 
 
 
