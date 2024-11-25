@@ -269,7 +269,7 @@ ORDER by No_of_sellers Desc;
 
 2.By using SQL queries to uncover actionable metrics, such as revenue patterns, delivery delays, and payment trends, we can optimize operations and improve customer satisfaction.
 
-3.The integration of geolocation and marketing funnel data further enriches the analysis, providing a holistic view of both operational and marketing efficiencies. 
+3.The integration of geolocation data enriches the analysis, providing a  wider understanding for customers.
 
 4.This project serves as a powerful tool for data-driven decision-making in e-commerce.
 
