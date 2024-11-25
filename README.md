@@ -1,7 +1,11 @@
 **Brazilian E-Commerce Public Dataset by Olist**
 
 **Project Overview**
+1.This project demonstrates data analysis skills using a Brazilian e-commerce dataset from Olist, featuring over 100k anonymized orders spanning 2016-2018. 
 
+2.The dataset offers insights into order status, pricing, payments, freight performance, customer reviews, and geolocation data.
+
+3.We analyze trends and actionable insights from both operational and marketing perspectives.
 
 **Data Source**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
